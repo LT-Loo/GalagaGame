@@ -1,6 +1,3 @@
-//Ler Theng Loo (s5212872)
-//Assignment 2 Milestone 2
-
 //Global variables
 let W = 800;
 let H = W * (7/8);
