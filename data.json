@@ -1,0 +1,128 @@
+{
+    "font" : [
+        {
+            "name" : "Arcade_Classic",
+            "path" : "Font/Arcade_Classic.TTF"
+        },
+
+        {
+            "name" : "dpcomic",
+            "path" : "Font/dpcomic.ttf"
+        },
+
+        {
+            "name" : "Loud_Noise",
+            "path" : "Font/Loud_Noise.TTF"
+        },
+
+        {
+            "name" : "papercut",
+            "path" : "Font/papercut.ttf"
+        }
+    ],
+
+    "rocket" : [
+        {
+            "name" : "SPEEDY",
+            "path" : "Img/Rocket2.png",
+            "strength" : "Speed",
+            "speed" : 5
+        },
+
+        {
+            "name" : "SHOOTER",
+            "path" : "Img/Rocket1.png",
+            "strength" : "Attack",
+            "speed" : 3
+        },
+
+        {
+            "name" : "BERSERKER",
+            "path" : "Img/Rocket3.png",
+            "strength" : "Toughness",
+            "speed" : 3
+        }
+    ],
+
+    "enemy" : [
+        {
+            "level" : "low",
+            "shape" : "insect",
+            "path" : "Img/Enemy1.png"
+        },
+
+        {
+            "level" : "high",
+            "shape" : "butterfly",
+            "path" : "Img/Enemy2.png"
+        }
+    ],
+
+    "star" : [
+        {
+            "type" : 1,
+            "path" : "Img/Star1.png"
+        },
+
+        {
+            "type" : 2,
+            "path" : "Img/Star2.png"
+        },
+
+        {
+            "type" : 3,
+            "path" : "Img/Star3.png"
+        }
+    ],
+
+    "leaderboard" : [
+        {
+            "rank" : 1,
+            "player" : "Henry",
+            "score" : 12000
+        },
+
+        {
+            "rank" : 2,
+            "player" : "LMAO",
+            "score" : 11900
+        },
+
+        {
+            "rank" : 3,
+            "player" : "Blub",
+            "score" : 11700
+        },
+
+        {
+            "rank" : 4,
+            "player" : "Ken",
+            "score" : 11400
+        },
+
+        {
+            "rank" : 5,
+            "player" : "Wong",
+            "score" : 10600
+        },
+
+        {
+            "rank" : 6,
+            "player" : "Kelly",
+            "score" : 9400
+        },
+
+        {
+            "rank" : 7,
+            "player" : "Riki",
+            "score" : 8600
+        },
+
+        {
+            "rank" : 8,
+            "player" : "Jake",
+            "score" : 7100
+        }
+    ]
+}
+
